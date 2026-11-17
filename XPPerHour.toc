@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: XPPerHour
+## Notes: Small window with XP per hour, time to level and XP gains to level. /xph
+## Author: drago
+## Version: 1.0.0
+## X-Flavor: Forever
+## SavedVariables: XPPerHourDB
+
+XPPerHour.lua
